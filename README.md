@@ -4,6 +4,7 @@
 </p>
 
 # JetFormBuilder Verification Redirect Cookie Fix
+[![DOI](https://zenodo.org/badge/1252218546.svg)](https://doi.org/10.5281/zenodo.20426919)
 
 A WordPress snippet for fixing JetFormBuilder email verification redirect issues caused by email security scanners and multi-step verification flows.
 
