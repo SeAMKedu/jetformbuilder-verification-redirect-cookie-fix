@@ -1,6 +1,7 @@
 <p float="left">
-  <img src="https://storage.googleapis.com/seamk-production/2025/03/8082dded-seamk_lila-logo_nimella_fi_eng-300x184.png" alt="SEAMK logo" height="100">
-  <img src="https://github.com/SeAMKedu/rovesugv_gps_nav/raw/main/images/Euroopan_unionin_osarahoittama_POS.png" alt="EU flag" height="150"> 
+  <img src="https://storage.googleapis.com/seamk-production/2025/03/8082dded-seamk_lila-logo_nimella_fi_eng-300x184.png" alt="SEAMK logo" height="100"  hspace="30">
+  <img src="https://storage.googleapis.com/seamk-production/2025/06/5ec5547c-epik_musta-300x190.png" alt="EPIK logo" height="100"  hspace="5´30">
+  <img src="https://github.com/SeAMKedu/rovesugv_gps_nav/raw/main/images/Euroopan_unionin_osarahoittama_POS.png" alt="EU flag" height="150">
 </p>
 
 # JetFormBuilder Verification Redirect Cookie Fix
