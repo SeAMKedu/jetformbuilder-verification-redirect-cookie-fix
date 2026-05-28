@@ -1,3 +1,8 @@
+<p float="left">
+  <img src="https://storage.googleapis.com/seamk-production/2025/03/8082dded-seamk_lila-logo_nimella_fi_eng-300x184.png" alt="SEAMK logo" height="100">
+  <img src="https://github.com/SeAMKedu/rovesugv_gps_nav/raw/main/images/Euroopan_unionin_osarahoittama_POS.png" alt="EU flag" height="150"> 
+</p>
+
 # JetFormBuilder Verification Redirect Cookie Fix
 
 A WordPress snippet for fixing JetFormBuilder email verification redirect issues caused by email security scanners and multi-step verification flows.
